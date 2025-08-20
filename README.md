@@ -7,46 +7,58 @@
 
 ---
 
-### 🔗 Portfolio & Contact
+## 🔗 Portfolio & Contact
 
-- 🌐 [afmcoding.vercel.web](https://ahmedfarah.netlify.app/)
-- 📩 [guray0449@gmail.com](mailto:guray0449@gmail.com)
+- 🌐 [Portfolio](https://ahmedfarah.netlify.app/)
+- 📩 [Email](mailto:guray0449@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/feed/)
 - 🐦 [Twitter](https://x.com/home)
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
+### 💻 Programming & Frameworks  
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php)
+
+### 🗄️ Databases  
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=for-the-badge&logo=mysql)
+
+### 🎨 Design & Tools  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker)
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AHMETfarah22&show_icons=true&theme=gruvbox" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AHMETfarah22&theme=gruvbox" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AHMETfarah22&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AHMETfarah22&theme=radical" width="48%"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMETfarah22&layout=compact&theme=gruvbox" width="35%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMETfarah22&layout=compact&theme=radical" width="40%"/>
 </p>
 
 ---
 
-### 🎨 UI Preview
-
-![Banner](assets/banner-dark.gif)
+## 🎨 UI Preview
+<p align="center">
+  <img src="assets/banner-dark.gif" alt="Banner Preview" width="80%"/>
+</p>
 
 ---
 
-### 📝 Quote
+## 📝 Quote
 
 > “Code with clarity, design with heart.” — Ahmed Farah
+
+---
