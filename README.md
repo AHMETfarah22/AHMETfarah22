@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed Farah</h1>
+<h1 align="center">Hi 👋, I'm AHMED FARAH MOHAMED</h1>
 <h3 align="center">🌍 Full Stack Developer & UI/UX Designer | 🇸🇴 Somalia | 🇹🇷 Türkiye</h3>
 
 <p align="center">
@@ -68,6 +68,6 @@
 
 ## 📝 Quote
 
-> “Code with clarity, design with heart.” — Ahmed Farah
+> “Code with clarity, design with heart.” — Ahmed Farah Mohamed
 
 ---
