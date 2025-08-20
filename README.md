@@ -44,8 +44,17 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AHMETfarah22&show_icons=true&theme=radical" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AHMETfarah22&theme=radical" width="48%"/>
 </p>
+
+### 🔥 Most Used Languages  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMETfarah22&layout=compact&theme=radical" width="40%"/>
+</p>
+
+<p align="center">
+  <!-- Extra highlight for your key languages -->
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python" />
 </p>
 
 ---
