@@ -1,73 +1,85 @@
-<h1 align="center">Hi 👋, I'm AHMED FARAH MOHAMED</h1>
-<h3 align="center">🌍 Full Stack Developer & UI/UX Designer | 🇸🇴 Somalia | 🇹🇷 Türkiye</h3>
+#!/usr/bin/env python3
+"""
+AHMED FARAH MOHAMED - Developer Portfolio
+Full Stack Developer | UI/UX Designer
+Somalia 🇸🇴 | Türkiye 🇹🇷
+"""
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Creative+Developer+from+Somalia;Building+Modern+Apps+%26+Interfaces;Loves+Clean+Code+and+Design!" alt="Typing" />
-</p>
+class Developer:
+    def __init__(self):
+        self.name = "AHMED FARAH MOHAMED"
+        self.title = "Full Stack Developer & UI/UX Designer"
+        self.location = {"somalia": "🇸🇴", "turkiye": "🇹🇷"}
+        self.passion = "Building modern, scalable applications"
+        
+    def skills(self):
+        return {
+            "frontend": ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+            "backend": ["Node.js", "Python", "Java", "C#", "PHP"],
+            "database": ["MongoDB", "Firebase", "MySQL", "PostgreSQL"],
+            "design": ["Figma", "Adobe XD", "UI/UX Design", "Prototyping"],
+            "tools": ["Git", "Docker", "AWS", "VS Code"]
+        }
 
----
+# Let's connect and build something amazing! 🎯
+// Modern React + Node.js E-commerce
+Tech Stack: React, Node.js, MongoDB, Stripe API
+Features: Real-time inventory, Payment processing, Admin dashboard
+// Java Spring Boot Application
+Tech Stack: Java, Spring Boot, MySQL, React
+Features: Patient records, Appointment scheduling, Analytics
+/* Comprehensive Design System */
+Components: 50+ reusable components
+Tokens: Colors, Typography, Spacing
+Documentation: Complete usage guidelines
+pie title Tech Stack Usage
+    "Frontend" : 35
+    "Backend" : 30
+    "Database" : 15
+    "Design" : 12
+    "DevOps" : 8
+    Frontend_Development:
+  - React & Next.js Applications
+  - Responsive Web Design
+  - Progressive Web Apps
+  - Performance Optimization
 
-## 🔗 Portfolio & Contact
+Backend_Development:
+  - RESTful API Design
+  - Microservices Architecture
+  - Database Design & Optimization
+  - Authentication & Authorization
 
-- 🌐 [Portfolio](https://ahmedfarah.netlify.app/)
-- 📩 [Email](mailto:guray0449@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/feed/)
-- 🐦 [Twitter](https://x.com/home)
+UI/UX_Design:
+  - User Research & Personas
+  - Wireframing & Prototyping
+  - Design Systems
+  - Usability Testing
+  - /* Design Principles */
+.principle {
+  --simplicity: "Less is more";
+  --consistency: "Predictable patterns";
+  --accessibility: "Design for all";
+  --performance: "Fast and fluid";
+  --user-centric: "Solve real problems";
+}
+current_focus = {
+    "ai_ml": "Machine Learning with Python",
+    "cloud": "Advanced AWS Services", 
+    "mobile": "React Native Development",
+    "architecture": "System Design Patterns"
+}
+- 🚀 **Building Scalable React Applications** - Best practices and patterns
+- 🎨 **Design Systems for Developers** - From concept to implementation  
+- 🔧 **Microservices with Node.js** - Architecture and deployment
+- 📱 **Mobile-First Development** - Responsive design strategies
 
----
+  // When I'm not coding...
+const hobbies = [
+  "🎸 Playing guitar",
+  "📚 Reading tech blogs", 
+  "🌍 Exploring new cultures",
+  "☕ Brewing perfect coffee"
+];
 
-## 🛠️ Tech Stack
-
-### 💻 Programming & Frameworks  
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php)
-
-### 🗄️ Databases  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=for-the-badge&logo=mysql)
-
-### 🎨 Design & Tools  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AHMETfarah22&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AHMETfarah22&theme=radical" width="48%"/>
-</p>
-
-### 🔥 Most Used Languages  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMETfarah22&layout=compact&theme=radical" width="40%"/>
-</p>
-
-<p align="center">
-  <!-- Extra highlight for your key languages -->
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python" />
-</p>
-
----
-
-## 🎨 UI Preview
-<p align="center">
-  <img src="assets/banner-dark.gif" alt="Banner Preview" width="80%"/>
-</p>
-
----
-
-## 📝 Quote
-
-> “Code with clarity, design with heart.” — Ahmed Farah Mohamed
-
----
+console.log("Let's build something amazing together! 🚀");
